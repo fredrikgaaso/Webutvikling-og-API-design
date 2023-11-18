@@ -2,7 +2,6 @@
   "name": "hjelp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "node_modules/.bin/parcel index.html",
     "build": "parcel build index.html",
