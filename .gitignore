@@ -18,7 +18,7 @@ bin/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/Client/dist/
+/client/dist/
 /nbdist/
 /.nb-gradle/
 
@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/Client/dist/
-/Client/.parcel-cache/
+/client/dist/
+/client/.parcel-cache/
 /node_modules/
